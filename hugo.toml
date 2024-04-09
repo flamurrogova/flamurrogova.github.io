@@ -1,7 +1,6 @@
 baseURL = 'https://flamurrogova.github.io/'
 languageCode = 'en-us'
-#title = 'random ramblings about technology'
-title = "Random Ramblings in Tech"
+title = "Random Ramblings on Tech"
 theme = 'paper'
 
 
