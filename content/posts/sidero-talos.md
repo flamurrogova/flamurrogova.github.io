@@ -1,7 +1,7 @@
 +++
 title = 'Talos Linux'
 date = 2024-01-09T12:34:33+01:00
-draft = true
+draft = false
 +++
 
 # Talos Linux - OS for Kubernetes
