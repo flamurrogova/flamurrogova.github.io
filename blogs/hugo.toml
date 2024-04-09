@@ -1,0 +1,17 @@
+baseURL = 'https://flamurrogova.github.io/'
+languageCode = 'en-us'
+#title = 'random ramblings about technology'
+title = "Random Ramblings in Tech"
+theme = 'paper'
+
+
+sectionPagesMenu = 'main'
+
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  github = 'flamurrogova'                 # github.com/YOUR_GITHUB_ID
+
