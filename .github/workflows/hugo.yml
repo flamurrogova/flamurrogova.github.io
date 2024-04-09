@@ -25,7 +25,6 @@ concurrency:
 defaults:
   run:
     shell: bash
-    working-directory: ./blogs
 
 jobs:
   # Build job
@@ -55,6 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
+          cd ./blogs
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/blogs/"
