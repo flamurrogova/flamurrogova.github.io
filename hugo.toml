@@ -1,4 +1,4 @@
-baseURL = 'http://flamur.xyz/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Random Ramblings on Tech"
 theme = 'paper'
